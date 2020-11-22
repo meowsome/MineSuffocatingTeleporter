@@ -1,0 +1,7 @@
+name: MineSuffocatingTeleporter
+version: ${project.version}
+main: me.meowso.minesuffocatingteleporter.MineSuffocatingTeleporter
+api-version: 1.16
+authors: [meowsome]
+description: Minecraft Spigot plugin to teleport players to the mine warp if they spawn in the server and they are suffocating in a mine
+depend: [MineResetLite, WorldGuard, WorldEdit, Essentials]
